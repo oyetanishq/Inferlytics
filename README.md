@@ -1,1 +1,1 @@
-<h1 align="center">Report Design</h1>
+<h1 align="center">Inferlytics</h1>
