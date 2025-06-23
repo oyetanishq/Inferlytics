@@ -1,0 +1,201 @@
+Date,Category,Product,Sales_Amount,Quantity,Region,Salesperson,Customer_Satisfaction
+2023-03-23,Books,Books Product 1,334.07,8,North,Alice Johnson,1.7
+2023-02-23,Electronics,Electronics Product 2,372.39,1,Central,Bob Smith,1.4
+2023-02-24,Electronics,Electronics Product 3,68.86,16,South,Carol Davis,4.2
+2023-05-11,Home & Garden,Home & Garden Product 4,436.77,8,South,Alice Johnson,1.9
+2023-04-08,Sports,Sports Product 5,192.65,9,North,Bob Smith,4.5
+2023-06-25,Electronics,Electronics Product 6,532.22,7,Central,David Wilson,3.5
+2023-11-17,Clothing,Clothing Product 7,482.94,18,North,Eva Brown,3.4
+2023-01-17,Sports,Sports Product 8,688.84,16,North,Eva Brown,4.7
+2023-02-15,Beauty,Beauty Product 9,412.1,4,North,Alice Johnson,4.6
+2023-01-04,Clothing,Clothing Product 10,771.96,17,East,David Wilson,4.9
+2023-04-11,Electronics,Electronics Product 11,349.62,7,Central,Carol Davis,1.4
+2023-12-01,Beauty,Beauty Product 12,443.29,12,West,David Wilson,3.7
+2023-08-15,Books,Books Product 13,360.49,16,South,Carol Davis,3.4
+2023-10-20,Books,Books Product 14,249.28,11,North,Bob Smith,5
+2023-11-08,Home & Garden,Home & Garden Product 15,804.69,6,West,David Wilson,2.3
+2023-09-05,Electronics,Electronics Product 16,437.83,20,North,Bob Smith,3.3
+2023-12-03,Electronics,Electronics Product 17,556.85,16,North,David Wilson,1.5
+2023-07-15,Electronics,Electronics Product 18,773.8,18,West,Carol Davis,3.7
+2023-03-27,Beauty,Beauty Product 19,92.49,6,East,Alice Johnson,2.5
+2023-10-27,Electronics,Electronics Product 20,757.25,10,Central,David Wilson,2.1
+2023-06-18,Beauty,Beauty Product 21,177.07,7,East,Alice Johnson,1.3
+2023-05-25,Electronics,Electronics Product 22,171.6,3,South,Bob Smith,4.7
+2023-04-13,Clothing,Clothing Product 23,160.76,6,South,Bob Smith,2.3
+2023-05-02,Electronics,Electronics Product 24,169.37,1,Central,Alice Johnson,4.4
+2023-07-04,Books,Books Product 25,568.85,14,South,David Wilson,3.3
+2023-10-23,Clothing,Clothing Product 26,984.32,6,South,Carol Davis,1.5
+2023-02-26,Home & Garden,Home & Garden Product 27,69.21,7,South,Eva Brown,4.5
+2023-10-18,Books,Books Product 28,614.19,19,Central,David Wilson,1.5
+2023-09-23,Electronics,Electronics Product 29,738.49,12,South,Eva Brown,2.8
+2023-07-03,Beauty,Beauty Product 30,719.05,2,West,Carol Davis,3.2
+2023-07-05,Clothing,Clothing Product 31,205.87,18,Central,Carol Davis,3.6
+2023-05-11,Beauty,Beauty Product 32,126.01,1,East,David Wilson,2.1
+2023-10-10,Clothing,Clothing Product 33,683.58,5,East,Bob Smith,1.3
+2023-05-17,Beauty,Beauty Product 34,436.4,6,North,Eva Brown,3.6
+2023-08-17,Home & Garden,Home & Garden Product 35,598.03,3,West,Bob Smith,4.6
+2023-01-15,Home & Garden,Home & Garden Product 36,796.63,10,East,David Wilson,4.9
+2023-01-27,Clothing,Clothing Product 37,858.06,15,West,Eva Brown,3.7
+2023-08-16,Sports,Sports Product 38,790.88,16,West,Bob Smith,1.9
+2023-01-24,Sports,Sports Product 39,402.53,1,North,Alice Johnson,2.2
+2023-10-23,Beauty,Beauty Product 40,238.9,9,North,Alice Johnson,4.3
+2023-08-19,Electronics,Electronics Product 41,965.66,18,South,Carol Davis,2.6
+2023-07-10,Clothing,Clothing Product 42,87,14,West,Eva Brown,3.5
+2023-09-15,Beauty,Beauty Product 43,759.98,10,South,Eva Brown,4.4
+2023-10-10,Electronics,Electronics Product 44,305.09,1,Central,Carol Davis,1.1
+2023-06-08,Home & Garden,Home & Garden Product 45,799.37,17,South,David Wilson,3.2
+2023-08-06,Sports,Sports Product 46,240.94,16,West,Eva Brown,3.4
+2023-10-18,Electronics,Electronics Product 47,59.17,20,North,Carol Davis,4.2
+2023-02-05,Sports,Sports Product 48,972.01,10,West,Bob Smith,2.4
+2023-05-01,Electronics,Electronics Product 49,690.41,1,South,Carol Davis,2.7
+2023-10-01,Beauty,Beauty Product 50,347.96,15,Central,Bob Smith,4.5
+2023-10-05,Home & Garden,Home & Garden Product 51,674.75,4,East,David Wilson,2.2
+2023-09-27,Home & Garden,Home & Garden Product 52,706.37,2,North,Carol Davis,4.8
+2023-03-02,Beauty,Beauty Product 53,630.88,20,South,Eva Brown,3.5
+2023-08-26,Books,Books Product 54,124.5,1,North,Bob Smith,2.9
+2023-05-02,Sports,Sports Product 55,932.8,11,South,Alice Johnson,1.1
+2023-09-07,Home & Garden,Home & Garden Product 56,239.7,11,Central,Alice Johnson,3.8
+2023-07-24,Sports,Sports Product 57,980.36,1,North,Alice Johnson,3.4
+2023-02-26,Home & Garden,Home & Garden Product 58,457.86,1,South,Eva Brown,1.6
+2023-06-30,Clothing,Clothing Product 59,791.31,15,Central,Alice Johnson,1.1
+2023-04-30,Beauty,Beauty Product 60,708.68,8,North,David Wilson,4.8
+2023-04-24,Books,Books Product 61,467.96,7,West,David Wilson,2
+2023-08-03,Books,Books Product 62,543.46,16,South,Carol Davis,2.9
+2023-04-15,Books,Books Product 63,436.65,14,North,Carol Davis,4.5
+2023-07-18,Home & Garden,Home & Garden Product 64,241.67,18,Central,Carol Davis,1.9
+2023-07-03,Books,Books Product 65,728.97,7,South,David Wilson,3.4
+2023-10-18,Electronics,Electronics Product 66,754.45,12,South,Alice Johnson,2.5
+2023-06-01,Sports,Sports Product 67,894.08,6,East,David Wilson,2.4
+2023-05-12,Beauty,Beauty Product 68,63.87,14,South,David Wilson,1.9
+2023-01-26,Sports,Sports Product 69,826.37,15,North,David Wilson,2.4
+2023-09-16,Home & Garden,Home & Garden Product 70,425.27,9,South,David Wilson,1.5
+2023-08-05,Home & Garden,Home & Garden Product 71,872.86,7,North,David Wilson,2.3
+2023-07-06,Beauty,Beauty Product 72,519.17,13,Central,Bob Smith,4.6
+2023-03-10,Books,Books Product 73,663.31,17,West,David Wilson,3.2
+2023-01-06,Electronics,Electronics Product 74,138.23,10,West,Alice Johnson,4.5
+2023-11-26,Beauty,Beauty Product 75,777.51,1,South,Carol Davis,3.4
+2023-06-23,Sports,Sports Product 76,905.57,9,East,Eva Brown,2.8
+2023-06-03,Clothing,Clothing Product 77,722.33,15,North,Carol Davis,4.7
+2023-05-05,Books,Books Product 78,65.43,6,East,Carol Davis,3.7
+2023-04-19,Books,Books Product 79,640.52,7,South,David Wilson,4.9
+2023-12-15,Home & Garden,Home & Garden Product 80,64.1,17,East,Eva Brown,1.9
+2022-12-31,Home & Garden,Home & Garden Product 81,617.88,4,East,Eva Brown,3.6
+2023-05-09,Books,Books Product 82,524.68,11,North,Eva Brown,2.9
+2023-02-04,Beauty,Beauty Product 83,799.45,17,North,Bob Smith,5
+2023-07-04,Beauty,Beauty Product 84,703.16,6,East,Bob Smith,4.8
+2023-03-24,Clothing,Clothing Product 85,159.46,20,Central,David Wilson,2.4
+2023-04-24,Home & Garden,Home & Garden Product 86,795.06,4,North,Eva Brown,4
+2023-01-17,Sports,Sports Product 87,598.53,11,West,Carol Davis,4.8
+2023-08-01,Beauty,Beauty Product 88,551.67,12,West,David Wilson,4.2
+2023-05-20,Beauty,Beauty Product 89,379.36,6,Central,Eva Brown,1.6
+2023-03-13,Beauty,Beauty Product 90,646.89,1,North,Carol Davis,3
+2023-05-11,Electronics,Electronics Product 91,528.84,9,South,David Wilson,4.2
+2023-02-12,Electronics,Electronics Product 92,340.06,19,Central,Eva Brown,1
+2023-03-13,Clothing,Clothing Product 93,422.33,3,South,Alice Johnson,1.5
+2023-10-09,Books,Books Product 94,141.17,6,East,Alice Johnson,3.4
+2023-02-24,Home & Garden,Home & Garden Product 95,1041,1,East,Bob Smith,2.1
+2023-01-26,Sports,Sports Product 96,51.55,20,South,Alice Johnson,3.5
+2023-09-15,Books,Books Product 97,625.6,18,Central,Bob Smith,2.8
+2023-01-15,Home & Garden,Home & Garden Product 98,687.79,15,Central,Bob Smith,3
+2023-09-06,Sports,Sports Product 99,357.3,17,North,Bob Smith,2.1
+2023-10-22,Clothing,Clothing Product 100,433.05,9,West,David Wilson,4.3
+2023-05-03,Electronics,Electronics Product 101,1044.92,19,Central,Bob Smith,5
+2023-10-20,Beauty,Beauty Product 102,384.35,7,East,David Wilson,3.4
+2023-04-17,Beauty,Beauty Product 103,910.14,4,North,Alice Johnson,1.2
+2023-05-13,Books,Books Product 104,481.93,20,East,Bob Smith,3.4
+2023-02-25,Sports,Sports Product 105,704.51,7,Central,Bob Smith,4
+2023-06-02,Electronics,Electronics Product 106,840.87,10,South,David Wilson,4.2
+2023-10-13,Home & Garden,Home & Garden Product 107,859.89,1,West,David Wilson,3.1
+2023-02-13,Books,Books Product 108,228.25,10,West,Alice Johnson,3.1
+2023-09-21,Sports,Sports Product 109,566.33,11,West,Eva Brown,1.3
+2023-01-12,Electronics,Electronics Product 110,357.43,11,Central,David Wilson,1.8
+2023-11-23,Home & Garden,Home & Garden Product 111,949.57,6,North,Alice Johnson,1.6
+2023-02-03,Books,Books Product 112,396.09,4,North,Alice Johnson,2.9
+2023-06-21,Beauty,Beauty Product 113,313.88,18,North,Carol Davis,2.7
+2023-06-19,Sports,Sports Product 114,670.57,18,Central,David Wilson,3.1
+2023-09-11,Sports,Sports Product 115,593.62,5,South,Alice Johnson,4.3
+2023-11-10,Beauty,Beauty Product 116,902.29,14,North,David Wilson,4.4
+2023-02-11,Sports,Sports Product 117,549.51,7,North,Bob Smith,2.6
+2023-04-09,Beauty,Beauty Product 118,440.28,19,Central,Eva Brown,4.6
+2023-02-25,Books,Books Product 119,403.67,8,North,David Wilson,2.3
+2023-11-12,Electronics,Electronics Product 120,532.6,4,South,Carol Davis,3.7
+2023-08-31,Electronics,Electronics Product 121,661.6,13,Central,Alice Johnson,2.1
+2023-02-26,Clothing,Clothing Product 122,747.43,16,East,Bob Smith,3.1
+2023-06-24,Books,Books Product 123,1009.35,5,South,Carol Davis,3.4
+2023-10-09,Books,Books Product 124,619.33,10,South,Bob Smith,4.8
+2023-07-22,Electronics,Electronics Product 125,215.67,8,South,David Wilson,3.1
+2023-07-03,Books,Books Product 126,671.3,15,Central,Carol Davis,2.3
+2023-09-14,Books,Books Product 127,166.65,18,West,Bob Smith,2
+2023-10-21,Home & Garden,Home & Garden Product 128,297.56,10,Central,Alice Johnson,1.3
+2023-10-17,Sports,Sports Product 129,400.04,20,South,Carol Davis,1.3
+2023-09-30,Clothing,Clothing Product 130,258.45,6,West,Alice Johnson,4.5
+2023-08-18,Books,Books Product 131,620.49,16,East,David Wilson,2
+2023-03-16,Clothing,Clothing Product 132,912.54,19,Central,Carol Davis,4.8
+2023-02-14,Electronics,Electronics Product 133,355.16,9,North,David Wilson,2.7
+2023-09-04,Electronics,Electronics Product 134,363.85,20,West,David Wilson,1.1
+2023-10-18,Beauty,Beauty Product 135,133.83,8,East,Eva Brown,4.9
+2023-07-12,Beauty,Beauty Product 136,931.57,1,South,David Wilson,1.2
+2023-07-24,Beauty,Beauty Product 137,279.7,13,South,Carol Davis,2.4
+2023-06-27,Clothing,Clothing Product 138,176.11,20,West,David Wilson,1.7
+2023-11-06,Sports,Sports Product 139,994.34,16,North,Alice Johnson,3.9
+2023-03-19,Beauty,Beauty Product 140,519.62,9,North,Bob Smith,2.1
+2023-12-26,Beauty,Beauty Product 141,812.09,10,West,Eva Brown,4.9
+2023-01-10,Electronics,Electronics Product 142,165.61,19,East,Bob Smith,4.4
+2023-10-19,Books,Books Product 143,138.13,17,South,Eva Brown,3.2
+2023-11-27,Beauty,Beauty Product 144,551.47,9,South,Alice Johnson,2.5
+2023-06-03,Beauty,Beauty Product 145,847.85,2,East,Carol Davis,3.6
+2023-04-17,Sports,Sports Product 146,430.27,10,North,Bob Smith,3.2
+2023-09-06,Electronics,Electronics Product 147,506.81,6,Central,David Wilson,1.6
+2023-07-02,Electronics,Electronics Product 148,95.58,7,North,Alice Johnson,4.7
+2023-01-08,Clothing,Clothing Product 149,937.45,13,East,Bob Smith,3.4
+2023-09-23,Beauty,Beauty Product 150,946.91,2,East,Carol Davis,3.2
+2023-05-14,Books,Books Product 151,829.73,16,North,Carol Davis,1.7
+2023-05-10,Electronics,Electronics Product 152,68.11,18,East,Alice Johnson,3.7
+2023-08-17,Electronics,Electronics Product 153,308.8,7,North,David Wilson,1.9
+2023-05-23,Beauty,Beauty Product 154,535.73,5,Central,Bob Smith,1.7
+2023-11-22,Beauty,Beauty Product 155,808.07,14,West,Carol Davis,2.8
+2023-06-02,Home & Garden,Home & Garden Product 156,445.69,19,Central,Carol Davis,1.5
+2023-07-01,Books,Books Product 157,262.23,16,East,Alice Johnson,4.4
+2023-11-14,Books,Books Product 158,205.2,13,East,Carol Davis,4.2
+2023-01-01,Sports,Sports Product 159,978.3,4,Central,David Wilson,1.5
+2023-01-13,Home & Garden,Home & Garden Product 160,284.12,2,North,Bob Smith,2.8
+2023-09-23,Sports,Sports Product 161,997.91,5,West,Alice Johnson,3.2
+2023-02-21,Books,Books Product 162,631.32,5,Central,David Wilson,2.9
+2023-05-13,Books,Books Product 163,173.34,18,East,Eva Brown,2.1
+2023-02-05,Sports,Sports Product 164,487.72,12,West,Bob Smith,4.3
+2023-09-19,Beauty,Beauty Product 165,391.79,3,South,Carol Davis,1.6
+2023-11-22,Clothing,Clothing Product 166,1023.7,18,Central,Bob Smith,2.5
+2023-07-02,Sports,Sports Product 167,1004.65,4,Central,Bob Smith,2.9
+2023-10-18,Electronics,Electronics Product 168,1019.24,4,South,Eva Brown,1.4
+2023-02-04,Sports,Sports Product 169,51.11,13,Central,Alice Johnson,1.1
+2023-05-26,Clothing,Clothing Product 170,839.38,12,West,Carol Davis,3.4
+2023-11-17,Books,Books Product 171,901.1,13,North,Eva Brown,3.3
+2023-07-07,Clothing,Clothing Product 172,694.06,3,North,Alice Johnson,2.3
+2023-08-10,Clothing,Clothing Product 173,409.87,18,North,Alice Johnson,1.8
+2023-10-21,Electronics,Electronics Product 174,553.52,16,South,Alice Johnson,4.3
+2023-02-22,Electronics,Electronics Product 175,754.92,14,East,Bob Smith,2.8
+2023-04-25,Sports,Sports Product 176,378.91,18,Central,Carol Davis,3.8
+2023-01-23,Books,Books Product 177,159.24,2,East,Bob Smith,1.4
+2023-12-12,Sports,Sports Product 178,584,20,East,Carol Davis,1.3
+2023-11-03,Home & Garden,Home & Garden Product 179,569.54,15,South,Alice Johnson,4
+2023-10-04,Home & Garden,Home & Garden Product 180,750.04,9,West,David Wilson,3.6
+2023-07-11,Home & Garden,Home & Garden Product 181,967.56,20,North,Alice Johnson,1.9
+2023-11-02,Books,Books Product 182,640.34,14,East,Carol Davis,1.4
+2023-07-24,Books,Books Product 183,1028.75,4,North,Bob Smith,3.9
+2023-02-13,Books,Books Product 184,295.47,20,East,Bob Smith,1.1
+2023-02-14,Books,Books Product 185,570.67,7,North,Bob Smith,4.3
+2023-08-20,Electronics,Electronics Product 186,690.61,19,North,Alice Johnson,2.2
+2023-03-31,Beauty,Beauty Product 187,58.77,17,North,David Wilson,3.9
+2023-09-09,Sports,Sports Product 188,126.3,18,East,Bob Smith,1.6
+2023-01-31,Electronics,Electronics Product 189,503.43,15,East,Alice Johnson,1.9
+2023-05-24,Beauty,Beauty Product 190,799.48,5,North,Alice Johnson,4.2
+2023-01-31,Books,Books Product 191,87.49,4,West,Alice Johnson,2.3
+2023-07-14,Electronics,Electronics Product 192,562.99,3,Central,David Wilson,1.7
+2023-06-12,Beauty,Beauty Product 193,64.26,3,West,Carol Davis,2.9
+2023-11-18,Sports,Sports Product 194,833.24,17,West,Bob Smith,2.8
+2023-03-04,Home & Garden,Home & Garden Product 195,412.17,15,South,Alice Johnson,1.9
+2023-12-07,Home & Garden,Home & Garden Product 196,349.68,20,North,Carol Davis,5
+2023-11-18,Sports,Sports Product 197,1035.51,19,Central,David Wilson,3.6
+2023-11-08,Beauty,Beauty Product 198,635.6,13,Central,Eva Brown,3.7
+2023-05-17,Books,Books Product 199,470.44,13,North,Eva Brown,1.2
+2023-09-18,Clothing,Clothing Product 200,809.88,14,West,Alice Johnson,3.7
